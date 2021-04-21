@@ -125,6 +125,20 @@
     "released": "Sep 8, 2011",
     "image": "https://img.mostraveller.com/uploads/images/comics/132/thumbnail.png",
     "creators": ["Ishida Sui"]
+  },
+  {
+    "id": 10,
+    "title": "HunterxHunter",
+    "genres": ["Shounen", "Action", "Drama", "Fantasy", "Adventure"],
+    "views": 330843,
+    "votes": 4.4,
+    "description": "Hunters are specialized in a wide variety of fields, ranging from treasure hunting to cooking. They have access to otherwise unavailable funds and information that allow them to pursue their dreams and interests. However, being a hunter is a special privilege, only attained by taking a deadly exam with an extremely low success rate. Gon Freecss, a 12-year-old boy with the hope of finding his missing father, sets out on a quest to take the Hunter Exam. Along the way, he picks up three companions who also aim to take the dangerous test: the revenge-seeking Kurapika, aspiring doctor Leorio Paladiknight, and a mischievous child the same age as Gon, Killua Zoldyck. Hunter x Hunter is a classic shounen that follows the story of four aspiring hunters as they embark on a perilous adventure, fighting for their dreams while defying the odds.",
+    "buy_link": "https://mangadelivery.com/products/ha-15?_pos=1&_sid=0fda29230&_ss=r",
+    "read_link": "https://mangaowl.net/single/100/hunter-x-hunter", 
+    "new_chapter": "TBC",
+    "released": "March 03, 1998",
+    "image": "https://img.mostraveller.com/uploads/images/comics/100/thumbnail.png",
+    "creators": ["Togashi Yoshihiro"]
   }
  ]
 }
