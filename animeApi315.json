@@ -1,4 +1,5 @@
-[
+{
+  "my_anime_data": [
   {
     "id": 1,
     "title": "Boruto: Naruto Next Generation",
@@ -167,4 +168,5 @@
     "image": "https://img.mostraveller.com/uploads/images/comics/209/thumbnail.png",
     "creators": ["Tsukuda Yuuto", "Morisaki Yuki", "Saeki Shun"]
   }
-]
+ ]
+}
