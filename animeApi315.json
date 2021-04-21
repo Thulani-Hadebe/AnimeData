@@ -97,6 +97,20 @@
     "released": "Apr 4, 2016",
     "image": "https://img.mostraveller.com/uploads/images/comics/150/thumbnail.png",
     "creators": ["Horikoshi Kouheia"]
+  },
+  {
+    "id": 8,
+    "title": "Death Note",
+    "genres": ["Shounen", "Action", "Drama", "Psychological", "Mystery"],
+    "views": 8688,
+    "votes": 4.4,
+    "description": "Ryuk, a god of death, drops his Death Note into the human world for personal pleasure. In Japan, prodigious high school student Light Yagami stumbles upon it. Inside the notebook, he finds a chilling message: those whose names are written in it shall die. Its nonsensical nature amuses Light, but when he tests its power by writing the name of a criminal in it, they suddenly meet their demise. Realizing the Death Note's vast potential, Light commences a series of nefarious murders under the pseudonym 'Kira,' vowing to cleanse the world of corrupt individuals and create a perfect society where crime ceases to exist. However, the police quickly catch on, and they enlist the help of L mastermind detective to uncover the culprit. Death Note tells the thrilling tale of Light and L as they clash in a great battle-of-minds, one that will determine the future of the world.",
+    "buy_link": "https://mangadelivery.com/products/te-02?_pos=1&_sid=447784c5c&_ss=r",
+    "read_link": "https://mangaowl.net/single/87/death-noter", 
+    "new_chapter": "TBC",
+    "released": "Dec 1, 2003",
+    "image": "https://img.mostraveller.com/uploads/images/comics/87/thumbnail.png",
+    "creators": ["Ohba Tsugumi","Obata Takeshi"]
   }
  ]
 }
