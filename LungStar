@@ -16,7 +16,7 @@
   },
   {
     "id": 2,
-   "title": "Charcoal Cargo",
+    "title": "Charcoal Cargo",
     "genres": ["S, M"],
     "views": 30 ,
     "votes": 2,
@@ -44,7 +44,7 @@
   },
   {
     "id": 4,
-   "title": "Atronomical Sweater",
+    "title": "Atronomical Sweater",
     "genres": ["S, M, L, XL, XXL],
     "views": 30 ,
     "votes": 5,
