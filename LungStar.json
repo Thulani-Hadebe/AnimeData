@@ -27,6 +27,48 @@
     "released": "October 2003",
     "image": "https://cosmiccomics.online/wp-content/uploads/2021/04/The-Walking-Dead-Deluxe-1-2nd.jpeg",
     "creators": ["Red, Yellow, Charcoal Black"]
+  },
+  {
+    "id": 3,
+    "title": "Crime City T-shirt",
+    "genres": ["S, M, L, XL, XXL],
+    "views": 30 ,
+    "votes": 3.5,
+    "description": "Crime City tee T-shirt with a light 100g qallity material.",
+    "buy_link": "to buy contact 0633995638",
+    "read_link": "Boutique Brand",
+    "new_chapter": "Crime City T-shirt",
+    "released": "October 2003",
+    "image": "https://cosmiccomics.online/wp-content/uploads/2021/04/The-Walking-Dead-Deluxe-1-2nd.jpeg",
+    "creators": ["Red, Yellow, Green, Blue, Purple, Black"]
+  },
+  {
+    "id": 4,
+    "title": "Atronomical Sweater",
+    "genres": ["S, M, L, XL, XXL],
+    "views": 30 ,
+    "votes": 5,
+    "description": "Astronomical sweater design comes in all sizes and relevant colors. Brace yourelf because we are going to the moon!",
+    "buy_link": "to buy contact 0633995638",
+    "read_link": "Boutique Brand",
+    "new_chapter": "Atronomical Sweater",
+    "released": "October 2003",
+    "image": "https://cosmiccomics.online/wp-content/uploads/2021/04/The-Walking-Dead-Deluxe-1-2nd.jpeg",
+    "creators": ["Red, Yellow, Green, Blue, Purple, Black"]
+  },
+  {
+    "id": 5,
+    "title": "Graphiti T-SHIRT",
+    "genres": ["S, M, L, XL, XXL"],
+    "views": 30 ,
+    "votes": 1,
+    "description": "Leave your mark with our graphiti t-shirt which comes in all sizes and in all relevance. Made from the highest quality material.",
+    "buy_link": "to buy contact 0633995638",
+    "read_link": "For enquiries contact 0633995638,
+    "new_chapter": "Graphiti T-SHIRT",
+    "released": "October 2003",
+    "image": "https://cosmiccomics.online/wp-content/uploads/2021/04/The-Walking-Dead-Deluxe-1-2nd.jpeg",
+     "creators": ["Red, Yellow, Green, Blue, Purple, Black"]
   }
  ]
 }
